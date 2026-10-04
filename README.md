@@ -1,2 +1,2 @@
 # Urheilu_dash
-Kalenterissa urheilua niin simopelisti kuin mahdollista
+Kalenterissa urheilua niin simppelisti kuin mahdollista
